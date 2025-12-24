@@ -12,8 +12,9 @@
 - Tools: Git, GitHub, Postman
 
 ## 🔥 Projects
-- 🚗 **Gaadi Dekho** – Vehicle info & rating system (MERN)
+
 - 📄 **Research Paper Navigator** – GraphRAG + Neo4j + FastAPI
+- 🚗 **Gaadi Dekho** – Vehicle info & rating system (MERN)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/rahul-dhumal-803421365
