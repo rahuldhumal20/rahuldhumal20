@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Rahul Dhumal
 
-<!--
-**rahuldhumal20/rahuldhumal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Computer Applications  
+💻 Full Stack Developer (MERN)  
+🚀 Interested in Backend, Databases & System Design  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Java, JavaScript, C, C++
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express, FastAPI
+- Database: MongoDB, MySQL, Neo4j
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🚗 **Gaadi Dekho** – Vehicle info & rating system (MERN)
+- 📄 **Research Paper Navigator** – GraphRAG + Neo4j + FastAPI
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rahul-dhumal-803421365
+- Email: rahuldhumal2003@gmail.com
