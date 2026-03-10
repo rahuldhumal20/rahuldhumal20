@@ -161,16 +161,6 @@ MERN Stack • AI Integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahuldhumal20&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&layout=compact&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahuldhumal20\&theme=tokyonight\&hide_border=true\&background=0D1117)](https://git.io/streak-stats)
 
 </div>
@@ -182,7 +172,9 @@ MERN Stack • AI Integration
 [![Rahul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahuldhumal20\&bg_color=0D1117\&color=00D9FF\&line=00D9FF\&point=C9D1D9\&area=true\&hide_border=true)](https://github.com/rahuldhumal20)
 
 </div>
-## 🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg"/>
