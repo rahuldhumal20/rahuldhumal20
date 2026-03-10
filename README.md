@@ -33,14 +33,6 @@ My work focuses on building **real-world software products** combining strong ba
 * Scalable Web Platforms
 
 ---
-const rahul = {
-  role: "Full Stack Developer | AI Backend Engineer",
-  focus: ["Backend Systems", "AI Applications", "Scalable Web Platforms"],
-  building: ["Smart Dine", "AI Tools", "Real-world SaaS products"],
-  learning: ["System Design", "Distributed Systems", "Advanced AI"],
-  funFact: "I enjoy building backend APIs more than playing games 🚀"
-};
-
 # 🛠 Tech Arsenal
 
 ### 💻 Programming Languages
