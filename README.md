@@ -1,11 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Rahul Dhumal
+# 👋 Hey there, I'm Rahul Dhumal
 
-### 🚀 Full Stack Developer | AI Backend Engineer
-
-🎓 M.Sc. Computer Applications
-💻 Building scalable backend systems, AI-powered tools, and real-world web platforms
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;AI+Backend+Engineer;FastAPI+%7C+Node.js+%7C+React;Building+Real+World+Software;Backend+Systems+%26+Scalable+Applications" />
 
 </div>
 
@@ -13,7 +10,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;AI+Backend+Engineer;FastAPI+%7C+Node.js+%7C+React;Building+Real-World+Software+Products;Turning+Ideas+into+Scalable+Systems" />
+🎓 **M.Sc. Computer Applications – Pune**
+💻 **Full Stack Developer | AI Backend Engineer**
+🚀 Passionate about **Backend Systems, AI Tools, and Scalable Web Applications**
 
 </div>
 
@@ -21,22 +20,23 @@
 
 # 👨‍💻 About Me
 
-💡 I am a **Full Stack Developer and AI Backend Engineer** passionate about building real-world applications that solve meaningful problems.
+I am a **Full Stack Developer focused on backend engineering and AI-driven applications**.
 
-My focus areas include:
+I enjoy building **real-world systems that combine strong backend architecture with intelligent data systems**.
 
-* ⚙️ Backend Architecture & API Design
-* 🧠 AI-powered applications (RAG, semantic search)
-* 🌐 MERN Stack development
-* 📊 Databases and scalable systems
+💡 Areas I work in:
 
-I enjoy transforming complex problems into **clean, scalable software solutions**.
+* Backend API Architecture
+* MERN Stack Development
+* AI / RAG Systems
+* Database Design & Optimization
+* Scalable Web Applications
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Arsenal
 
-### 💻 Programming
+### 💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -45,7 +45,7 @@ I enjoy transforming complex problems into **clean, scalable software solutions*
 
 ---
 
-### 🌐 Full Stack Development
+### 🌐 Frontend & Backend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
@@ -54,76 +54,74 @@ I enjoy transforming complex problems into **clean, scalable software solutions*
 
 ---
 
-### 🗄 Databases
+### 🗄 Databases & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge\&logo=neo4j)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 ### 🤖 AI / Data Systems
 
-![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-purple?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-AI%20Architecture-blue?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-Integration-green?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎟 EventBuzz — Event Ticket Booking Platform
+## 🎟 EventBuzz — Ticket Booking Platform
 
-A **full-stack MERN ticket booking system** supporting both **online and offline bookings**.
+Full-stack **MERN event ticket booking platform** supporting both online and offline bookings.
 
-Features:
+Key Features
 
 * JWT Authentication
-* Admin event management
+* Admin event dashboard
 * QR-based ticket verification
-* Real-time booking flow
+* Online & offline booking flow
 
-📊 Real Impact
+📊 Impact
 
 * 🎫 **386+ Tickets Sold**
 * 💰 **₹1.67L Revenue Managed**
 
 Tech Stack
-
 React • Node.js • Express • MongoDB • Netlify • Render
 
 ---
 
 ## 🚗 Vehica — Smart Vehicle Recommendation System
 
-A **MERN-based intelligent vehicle recommendation platform**.
+A **MERN-based vehicle discovery and recommendation platform**.
 
-Key Features
+Features
 
-* Smart filtering and search
-* Category-based vehicle browsing
-* Review & rating system
+* Category navigation
+* Vehicle search and filtering
+* Reviews and rating system
 * Admin vehicle management
 
 Tech Stack
-
 React • Node.js • Express • MongoDB
 
 ---
 
 ## 📄 Research Paper Navigator — AI RAG System
 
-An **AI-powered research exploration platform** using semantic search.
+AI-powered research exploration system.
 
 Features
 
-* PDF ingestion and processing
-* Vector embedding storage
-* Graph-based author-paper relationships
-* Semantic research paper search
+* PDF ingestion pipeline
+* Semantic vector search
+* Graph database relationships
+* Fast document querying
 
 Tech Stack
-
 FastAPI • React • ChromaDB • Neo4j • RAG Architecture
 
 ---
@@ -132,9 +130,25 @@ FastAPI • React • ChromaDB • Neo4j • RAG Architecture
 
 <div align="center">
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuldhumal20\&show_icons=true\&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahuldhumal20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20\&layout=compact\&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahuldhumal20\&theme=tokyonight\&hide_border=true\&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Rahul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahuldhumal20\&bg_color=0D1117\&color=00D9FF\&line=00D9FF\&point=C9D1D9\&area=true\&hide_border=true)](https://github.com/rahuldhumal20)
 
 </div>
 
@@ -142,19 +156,34 @@ FastAPI • React • ChromaDB • Neo4j • RAG Architecture
 
 # 📫 Connect With Me
 
-💼 LinkedIn
-https://www.linkedin.com/in/rahul-dhumal-803421365
+<div align="center">
 
-📧 Email
-[rahuldhumal2003@gmail.com](mailto:rahuldhumal2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rahul-dhumal-803421365)
 
-💻 GitHub
-https://github.com/rahuldhumal20
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail)](mailto:rahuldhumal2003@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/rahuldhumal20)
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ *“Building real-world software that solves real problems.”*
+![Visitor Count](https://komarev.com/ghpvc/?username=rahuldhumal20\&color=blue\&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ “Building real-world software that solves real problems.”
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
