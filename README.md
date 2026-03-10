@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Rahul Dhumal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;AI+Backend+Engineer;FastAPI+%7C+Node.js+%7C+React;Building+Real+World+Software;Backend+Systems+%26+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;AI+Backend+Engineer;FastAPI+%7C+Node.js+%7C+React;Building+Real+World+Software+Products;Backend+Systems+%26+Scalable+Applications" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🎓 **M.Sc. Computer Applications – Pune**
+🎓 **M.Sc. Computer Applications**
 💻 **Full Stack Developer | AI Backend Engineer**
-🚀 Passionate about **Backend Systems, AI Tools, and Scalable Web Applications**
+🚀 Passionate about **Backend Systems, AI Tools and Scalable Applications**
 
 </div>
 
@@ -20,17 +20,17 @@
 
 # 👨‍💻 About Me
 
-I am a **Full Stack Developer focused on backend engineering and AI-driven applications**.
+I am a **Full Stack Developer focused on backend engineering and AI-powered systems**.
 
-I enjoy building **real-world systems that combine strong backend architecture with intelligent data systems**.
+My work focuses on building **real-world software products** combining strong backend architecture, intelligent data systems, and scalable web applications.
 
 💡 Areas I work in:
 
 * Backend API Architecture
 * MERN Stack Development
 * AI / RAG Systems
-* Database Design & Optimization
-* Scalable Web Applications
+* Database Design
+* Scalable Web Platforms
 
 ---
 
@@ -63,66 +63,92 @@ I enjoy building **real-world systems that combine strong backend architecture w
 
 ---
 
-### 🤖 AI / Data Systems
-
-![RAG](https://img.shields.io/badge/RAG-AI%20Architecture-blue?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Integration-green?style=for-the-badge)
-
----
-
 # 🚀 Featured Projects
 
-## 🎟 EventBuzz — Ticket Booking Platform
+### 🏆 Building Software for Real-World Impact
 
-Full-stack **MERN event ticket booking platform** supporting both online and offline bookings.
+<table>
+<tr>
 
-Key Features
+<td width="50%">
 
-* JWT Authentication
-* Admin event dashboard
-* QR-based ticket verification
-* Online & offline booking flow
+## 🎟 EventBuzz
 
-📊 Impact
+**Event Ticket Booking Platform**
 
-* 🎫 **386+ Tickets Sold**
-* 💰 **₹1.67L Revenue Managed**
+• Full-stack MERN ticket booking system
+• Admin dashboard for event management
+• Online & offline ticket booking
+• QR-based ticket verification
 
-Tech Stack
-React • Node.js • Express • MongoDB • Netlify • Render
+**Impact**
 
----
+🎫 386+ tickets sold
+💰 ₹1.67L revenue managed
 
-## 🚗 Vehica — Smart Vehicle Recommendation System
+**Tech Stack**
 
-A **MERN-based vehicle discovery and recommendation platform**.
-
-Features
-
-* Category navigation
-* Vehicle search and filtering
-* Reviews and rating system
-* Admin vehicle management
-
-Tech Stack
 React • Node.js • Express • MongoDB
 
----
+</td>
 
-## 📄 Research Paper Navigator — AI RAG System
+<td width="50%">
 
-AI-powered research exploration system.
+## 🚗 Vehica
 
-Features
+**Smart Vehicle Recommendation System**
 
-* PDF ingestion pipeline
-* Semantic vector search
-* Graph database relationships
-* Fast document querying
+• MERN vehicle discovery platform
+• Smart search & filtering
+• Reviews and rating system
+• Admin vehicle management
 
-Tech Stack
-FastAPI • React • ChromaDB • Neo4j • RAG Architecture
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📄 Research Paper Navigator
+
+**AI RAG Research Explorer**
+
+• Semantic search across research papers
+• Vector database powered search
+• Graph database relationships
+• Fast document ingestion pipeline
+
+**Tech Stack**
+
+FastAPI • React • ChromaDB • Neo4j
+
+</td>
+
+<td width="50%">
+
+## 🍽 Smart Dine
+
+**AI QR Menu & Restaurant System**
+
+• QR-based digital menu system
+• AI-powered menu assistant
+• Category-based food display
+• Restaurant admin panel
+
+**Tech Stack**
+
+MERN Stack • AI Integration
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -151,6 +177,40 @@ FastAPI • React • ChromaDB • Neo4j • RAG Architecture
 [![Rahul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahuldhumal20\&bg_color=0D1117\&color=00D9FF\&line=00D9FF\&point=C9D1D9\&area=true\&hide_border=true)](https://github.com/rahuldhumal20)
 
 </div>
+
+---
+
+# 🎯 Current Mission & Goals
+
+```mermaid
+mindmap
+  root((Rahul's Focus))
+    Building Scalable Systems
+      MERN Applications
+      Backend APIs
+      Database Optimization
+      Cloud Deployment
+    AI & Intelligent Systems
+      RAG Applications
+      Semantic Search
+      Vector Databases
+      LLM Integrations
+    Professional Growth
+      Software Engineering Roles
+      System Design Mastery
+      Backend Engineering
+      Distributed Systems
+    Learning & Research
+      AI Systems
+      Graph Databases
+      Scalable Architectures
+      Performance Optimization
+    Impact & Innovation
+      Real World Products
+      Open Source Contributions
+      Developer Community
+      Tech Innovation
+```
 
 ---
 
