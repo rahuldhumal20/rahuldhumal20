@@ -183,7 +183,7 @@ FastAPI • React • ChromaDB • Neo4j • RAG Architecture
 </div>
 
 <div align="center">
-
+<h1>Thanks for Visiting! </h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
