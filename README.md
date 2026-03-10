@@ -161,9 +161,9 @@ MERN Stack • AI Integration
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahuldhumal20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahuldhumal20&show_icons=true&theme=tokyonight" height="180"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -185,9 +185,8 @@ MERN Stack • AI Integration
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg"/>
 </p>
----
 
 # 🎯 Current Mission & Goals
 
