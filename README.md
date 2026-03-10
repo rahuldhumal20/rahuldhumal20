@@ -70,21 +70,20 @@ My work focuses on building **real-world software products** combining strong ba
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🎟 EventBuzz
-
+### 🎟 EventBuzz  
 **Event Ticket Booking Platform**
 
-• Full-stack MERN ticket booking system
-• Admin dashboard for event management
-• Online & offline ticket booking
-• QR-based ticket verification
+• Full-stack MERN ticket booking system  
+• Admin dashboard for event management  
+• Online & offline ticket booking  
+• QR-based ticket verification  
 
 **Impact**
 
-🎫 386+ tickets sold
-💰 ₹1.67L revenue managed
+📊 386+ tickets sold  
+💰 ₹1.67L revenue managed  
 
 **Tech Stack**
 
@@ -92,16 +91,17 @@ React • Node.js • Express • MongoDB
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🚗 Vehica
-
+### 🚗 Vehica  
 **Smart Vehicle Recommendation System**
 
-• MERN vehicle discovery platform
-• Smart search & filtering
-• Reviews and rating system
-• Admin vehicle management
+• MERN vehicle discovery platform  
+• Smart search & filtering  
+• Reviews and rating system  
+• Admin vehicle management  
+
+<br>
 
 **Tech Stack**
 
@@ -113,16 +113,17 @@ React • Node.js • Express • MongoDB
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📄 Research Paper Navigator
-
+### 📄 Research Paper Navigator  
 **AI RAG Research Explorer**
 
-• Semantic search across research papers
-• Vector database powered search
-• Graph database relationships
-• Fast document ingestion pipeline
+• Semantic search across research papers  
+• Vector database powered search  
+• Graph database relationships  
+• Fast document ingestion pipeline  
+
+<br>
 
 **Tech Stack**
 
@@ -130,16 +131,17 @@ FastAPI • React • ChromaDB • Neo4j
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🍽 Smart Dine
-
+### 🍽 Smart Dine  
 **AI QR Menu & Restaurant System**
 
-• QR-based digital menu system
-• AI-powered menu assistant
-• Category-based food display
-• Restaurant admin panel
+• QR-based digital menu system  
+• AI-powered menu assistant  
+• Category-based food display  
+• Restaurant admin panel  
+
+<br>
 
 **Tech Stack**
 
@@ -177,6 +179,11 @@ MERN Stack • AI Integration
 [![Rahul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahuldhumal20\&bg_color=0D1117\&color=00D9FF\&line=00D9FF\&point=C9D1D9\&area=true\&hide_border=true)](https://github.com/rahuldhumal20)
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
