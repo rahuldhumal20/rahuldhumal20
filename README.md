@@ -33,6 +33,13 @@ My work focuses on building **real-world software products** combining strong ba
 * Scalable Web Platforms
 
 ---
+const rahul = {
+  role: "Full Stack Developer | AI Backend Engineer",
+  focus: ["Backend Systems", "AI Applications", "Scalable Web Platforms"],
+  building: ["Smart Dine", "AI Tools", "Real-world SaaS products"],
+  learning: ["System Design", "Distributed Systems", "Advanced AI"],
+  funFact: "I enjoy building backend APIs more than playing games 🚀"
+};
 
 # 🛠 Tech Arsenal
 
@@ -186,9 +193,8 @@ MERN Stack • AI Integration
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
 ---
 
 # 🎯 Current Mission & Goals
