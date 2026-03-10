@@ -67,13 +67,15 @@ My work focuses on building **real-world software products** combining strong ba
 
 ### 🏆 Building Software for Real-World Impact
 
-<table>
+<div align="center">
+
+<table width="90%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎟 EventBuzz  
-**Event Ticket Booking Platform**
+### 🎟 EventBuzz
+Event Ticket Booking Platform
 
 • Full-stack MERN ticket booking system  
 • Admin dashboard for event management  
@@ -93,8 +95,8 @@ React • Node.js • Express • MongoDB
 
 <td width="50%" valign="top">
 
-### 🚗 Vehica  
-**Smart Vehicle Recommendation System**
+### 🚗 Vehica
+Smart Vehicle Recommendation System
 
 • MERN vehicle discovery platform  
 • Smart search & filtering  
@@ -115,8 +117,8 @@ React • Node.js • Express • MongoDB
 
 <td width="50%" valign="top">
 
-### 📄 Research Paper Navigator  
-**AI RAG Research Explorer**
+### 📄 Research Paper Navigator
+AI RAG Research Explorer
 
 • Semantic search across research papers  
 • Vector database powered search  
@@ -133,8 +135,8 @@ FastAPI • React • ChromaDB • Neo4j
 
 <td width="50%" valign="top">
 
-### 🍽 Smart Dine  
-**AI QR Menu & Restaurant System**
+### 🍽 Smart Dine
+AI QR Menu & Restaurant System
 
 • QR-based digital menu system  
 • AI-powered menu assistant  
@@ -151,6 +153,8 @@ MERN Stack • AI Integration
 
 </tr>
 </table>
+
+</div>
 
 ---
 
