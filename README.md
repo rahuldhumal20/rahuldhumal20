@@ -174,7 +174,7 @@ MERN Stack • AI Integration
 </div>
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg"/>
