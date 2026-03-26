@@ -191,28 +191,6 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 
 ---
 
-## 🎯 Current Focus
-
-```
-🔧  Deepening expertise in System Design & Distributed Systems
-🤖  Building advanced AI/RAG applications with LLMs
-☁️  Exploring cloud deployment & DevOps (Docker, AWS basics)
-📐  Improving scalable backend architecture skills
-💼  Seeking full-time Backend / Full Stack Engineering roles
-```
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-> *"Don't just write code — engineer systems. Don't just ship features — solve problems."*
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,20:0A4FA8,50:0D3B6E,75:0A2342,100:0D0D1A&height=140&section=footer&text=Let's%20build%20something%20great%20together%20🚀&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&descColor=A0D8EF"/>
