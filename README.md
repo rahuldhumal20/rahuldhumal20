@@ -183,6 +183,14 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 
 ---
 
+<h3 align="centre">🛠 Languages and Tools:</h3>
+<p align="centre">
+  <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,nodejs,express,git,c,cpp,java,python,fastapi,mongodb" />
+  </a>
+</p>
+
+---
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -190,6 +198,17 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 </div>
 
 ---
+### ✍️ Writing 
+- 🧾 Articles
+    - What is Claude AI? A Complete Guide to the Fast-Rising ChatGPT Competitor (2026) <br/>
+        -> https://medium.com/p/e028688f8ac6?postPublishedType=initial
+    - Generative AI: Boom or Curse? <br/>
+        -> https://medium.com/@rahuldhumal2003/generative-ai-boom-or-curse-73b5339cd9c0
+    - Choosing the Right Python Data Structure: A Beginner’s Decision Guide <br/>
+        ->https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109
+
+        
+ ---     
 
 <div align="center">
 
