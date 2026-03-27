@@ -183,8 +183,9 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 
 ---
 
-<h3 align="centre">🛠 Languages and Tools:</h3>
-<p align="centre">
+## 🛠 Languages and Tools
+
+<p align="left">
   <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,nodejs,express,git,c,cpp,java,python,fastapi,mongodb" />
   </a>
