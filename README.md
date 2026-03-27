@@ -14,12 +14,16 @@
 
 <div align="center">
   
+  <a href="https://rahuldhumal.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rahul-dhumal-803421365">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:rahuldhumal2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&to=rahuldhumal2003@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/rahuldhumal20">
@@ -32,17 +36,17 @@
 
 ---
 
-## `$ whoami`
+## `💻 $ whoami`
 
 ```typescript
-const rahul: Developer = {
+const rahul = {
   name        : "Rahul Dhumal",
   degree      : "M.Sc. Computer Applications",
-  location    : "India 🇮🇳",
+  location    : "Pune, India 🇮🇳",
   role        : ["Full Stack Developer", "AI Backend Engineer"],
   focus       : ["Backend Architecture", "AI/RAG Systems", "Scalable Web Apps"],
   passions    : ["Clean Code", "System Design", "Real-World Impact"],
-  currentGoal : "Building production-grade software that solves real problems",
+  currentGoal : ""Building scalable AI-powered backend systems for real-world applications"",
   openTo      : "Full-time SWE / Backend Engineering roles 🚀"
 };
 ```
@@ -164,7 +168,6 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahuldhumal20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&border_radius=10"/>
 
 </div>
