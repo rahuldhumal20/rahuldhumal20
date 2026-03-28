@@ -15,7 +15,7 @@
 <div align="center">
   
   <a href="https://rahuldhumal.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/My%20Website-161B22?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rahul-dhumal-803421365">
