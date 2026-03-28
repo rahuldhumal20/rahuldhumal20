@@ -209,7 +209,9 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
     - Generative AI: Boom or Curse? <br/>
         -> https://medium.com/@rahuldhumal2003/generative-ai-boom-or-curse-73b5339cd9c0
     - Choosing the Right Python Data Structure: A Beginner’s Decision Guide <br/>
-        ->https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109
+        -> https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109
+    - Building an NLP Pipeline: From Raw Text to Vector Representation <br/>
+        -> https://medium.com/p/566a94867638?postPublishedType=initial
 
         
  ---     
