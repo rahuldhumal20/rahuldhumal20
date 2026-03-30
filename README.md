@@ -40,7 +40,7 @@
 
 ```typescript
 const rahul = {
-  name        : "Rahul Dhumal",
+  name        : "Rahul Pravin Dhumal",
   degree      : "M.Sc. Computer Applications",
   location    : "Pune, India 🇮🇳",
   role        : ["Full Stack Developer", "AI Backend Engineer"],
