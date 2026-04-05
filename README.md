@@ -213,6 +213,8 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
         -> https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109
     - Building an NLP Pipeline: From Raw Text to Vector Representation <br/>
         -> https://medium.com/p/566a94867638?postPublishedType=initial
+    - Building a BERT-Based Sentiment Analysis Model using Transformers </br/>
+        -> https://www.linkedin.com/posts/rahul-dhumal-803421365_nlp-ai-datascience-share-7445837117345263616-k1wP?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFqnLUMBQzBrdXOUPJN6NIS878ErdyB2-Ow&utm_campaign=copy_link
 
         
  ---     
