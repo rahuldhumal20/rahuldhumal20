@@ -168,12 +168,6 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahuldhumal20&theme=tokyonight-duo&hide_border=true&background=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
