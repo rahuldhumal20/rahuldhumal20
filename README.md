@@ -207,7 +207,7 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
         -> https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109
     - Building an NLP Pipeline: From Raw Text to Vector Representation <br/>
         -> https://medium.com/p/566a94867638?postPublishedType=initial
-    - How Machines Read Words: A Guide to NLP Token Classification </br/>
+    - How Machines Read Words: A Guide to NLP Token Classification <br/>
         -> https://medium.com/@rahuldhumal2003/how-machines-read-words-a-guide-to-nlp-token-classification-89af85f3d5c0
         
  ---     
