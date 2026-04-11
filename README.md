@@ -209,6 +209,8 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
         -> https://medium.com/p/566a94867638?postPublishedType=initial
     - How Machines Read Words: A Guide to NLP Token Classification <br/>
         -> https://medium.com/@rahuldhumal2003/how-machines-read-words-a-guide-to-nlp-token-classification-89af85f3d5c0
+    - LangChain: The Backbone of Modern LLM-Powered Applications <br/>
+        -> https://medium.com/p/d7f56bab52fc?postPublishedType=initial
         
  ---     
 
