@@ -212,8 +212,6 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
     - LangChain: The Backbone of Modern LLM-Powered Applications <br/>
         -> https://medium.com/p/d7f56bab52fc?postPublishedType=initial
       
-  
-        
  ---     
 
 <div align="center">
