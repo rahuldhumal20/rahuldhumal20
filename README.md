@@ -1,221 +1,336 @@
-<div align="center">
+# 👨‍💻 Rahul Pravin Dhumal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:0A2342,60:0D3B6E,85:0A4FA8,100:00D9FF&height=220&section=header&text=Rahul%20Dhumal&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Backend%20Engineer&descSize=21&descAlignY=72&descColor=A0D8EF&stroke=00D9FF&strokeWidth=2"/>
+\<div align="center">
 
-</div>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:0A2342,60:0D3B6E,85:0A4FA8,100:00D9FF&height=220&section=header&text=Rahul%20Dhumal&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Backend%20Engineer&descSize=21&descAlignY=72&descColor=A0D8EF&stroke=00D9FF&strokeWidth=2](https://capsule-render.vercel.app/api?type=waving\&color=0:0D0D1A,30:0A2342,60:0D3B6E,85:0A4FA8,100:00D9FF\&height=220\&section=header\&text=Rahul%20Dhumal\&fontSize=72\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=50\&desc=Full%20Stack%20Developer%20%7C%20AI%20Backend%20Engineer\&descSize=21\&descAlignY=72\&descColor=A0D8EF\&stroke=00D9FF\&strokeWidth=2)"/>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+Backend+Systems;Crafting+AI+%2F+RAG+Powered+Applications;MERN+Stack+%7C+FastAPI+%7C+Node.js;Turning+Ideas+into+Real-World+Products)](https://git.io/typing-svg)
 
-</div>
 
-<br/>
+\<br/>
 
-<div align="center">
-  
-  <a href="https://rahuldhumal.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Website-161B22?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rahul-dhumal-803421365">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=rahuldhumal2003@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/rahuldhumal20">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rahuldhumal20&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+\<a href="[https://rahuldhumal.netlify.app/](https://rahuldhumal.netlify.app/)" target="\_blank">
+\<img src="[https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=00D9FF](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge\&logo=google-chrome\&logoColor=00D9FF)"/>
+\</a>
+\<a href="[https://www.linkedin.com/in/rahul-dhumal-803421365](https://www.linkedin.com/in/rahul-dhumal-803421365)" target="\_blank">
+\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+\</a>
+\<a href="[https://mail.google.com/mail/?view=cm&to=rahuldhumal2003@gmail.com](https://mail.google.com/mail/?view=cm\&to=rahuldhumal2003@gmail.com)" target="\_blank">
+\<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+\</a>
+\<a href="[https://github.com/rahuldhumal20](https://github.com/rahuldhumal20)">
+\<img src="[https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge\&logo=github\&logoColor=white)"/>
+\</a>
+\<img src="[https://komarev.com/ghpvc/?username=rahuldhumal20&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=rahuldhumal20\&color=00D9FF\&style=for-the-badge\&label=PROFILE+VIEWS)"/>
 
-</div>
+\</div>
 
 ---
 
-## `💻 $ whoami`
+## 💻 `whoami`
 
-```typescript
+```javascript
 const rahul = {
   name        : "Rahul Pravin Dhumal",
   degree      : "M.Sc. Computer Applications",
+  university  : "MES Abasaheb Garware College, Pune",
+  cgpa        : "8.35",
   location    : "Pune, India 🇮🇳",
-  role        : ["Full Stack Developer", "AI Backend Engineer"],
-  focus       : ["Backend Architecture", "AI/RAG Systems", "Scalable Web Apps"],
-  passions    : ["Clean Code", "System Design", "Real-World Impact"],
-  currentGoal : ""Building scalable AI-powered backend systems for real-world applications"",
-  openTo      : "Full-time SWE / Backend Engineering roles 🚀"
+
+  role        : [
+    "Full Stack Developer",
+    "AI Backend Engineer"
+  ],
+
+  focus       : [
+    "Backend Architecture",
+    "Agentic AI",
+    "RAG Systems",
+    "Scalable Web Applications"
+  ],
+
+  technologies: [
+    "Python",
+    "FastAPI",
+    "React.js",
+    "Node.js",
+    "LangChain",
+    "LangGraph"
+  ],
+
+  interests   : [
+    "System Design",
+    "Generative AI",
+    "Problem Solving",
+    "Building Real-World Products"
+  ],
+
+  currentGoal : "Building scalable AI-powered backend systems",
+
+  openTo      : "Software Engineer / AI Backend / FDE opportunities 🚀"
 };
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+\<div align="center">
 
-**Languages**
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend & Backend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases & Infrastructure**
+\
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Tools & Workflow**
+### Frontend Development
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+
+
+
+
+\
+
+
+### Backend Development
+
+
+
+\
+
+
+### AI / Machine Learning / Generative AI
+
+
+
+
+
+\
+
+
+### Databases
+
+
+
+
+\
+
+
+### Tools & Workflow
+
+
+
+
+
+\
+
+
+\</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+\<div align="center">
 
-### 🎟 EventBuzz
-> *Full-Stack Event Ticket Booking Platform*
+### 🤖 BizPilot
 
-A complete MERN-based ticketing system built for real events — with a powerful admin dashboard, QR-based verification, and live booking.
+**AI-Powered Multi-Agent Business Analysis Platform**
+
+\</div>
+
+An intelligent multi-agent AI platform designed to transform business problems into actionable software solutions and structured implementation plans.
 
 **Highlights:**
-- 📊 `386+` tickets sold in production
-- 💰 `₹1,67,000+` in revenue managed
-- 🎫 QR-code ticket generation & verification
-- 🛠 Admin panel for event CRUD management
 
-**Stack:** `React` `Node.js` `Express` `MongoDB`
+- 🧠 Business Analyst Agent for understanding business requirements.
+- 🏗️ Solution Architect Agent for designing technical solutions.
+- 💰 Cost Analyst Agent for estimating implementation costs.
+- 📊 Financial Validator for reviewing financial estimates.
+- 📋 Project Planner Agent for generating implementation plans.
+- 🔄 Multi-agent orchestration and workflow coordination.
 
-</td>
-<td width="50%">
+**Tech Stack:** `Python` `FastAPI` `LangGraph` `LLMs` `Multi-Agent AI`
+
+---
+
+\<div align="center">
+
+### 💬 RAG Customer Support Assistant
+
+**AI-Powered Context-Aware Customer Support System**
+
+\</div>
+
+An intelligent customer support assistant that uses Retrieval-Augmented Generation to retrieve relevant information from uploaded documents and generate context-aware responses.
+
+**Highlights:**
+
+- 📄 PDF document ingestion and processing.
+- ✂️ Text chunking and embedding generation.
+- 🔍 Semantic search using ChromaDB.
+- 🧠 Context-aware response generation using LLMs.
+- ⚡ LangChain and LangGraph-based query workflows.
+
+**Tech Stack:** `Python` `FastAPI` `React.js` `LangChain` `LangGraph` `ChromaDB` `Groq API`
+
+---
+
+\<div align="center">
+
+### 📄 GenAI Resume Analyzer
+
+**LLM-Powered ATS Resume Screening System**
+
+\</div>
+
+An AI-powered resume screening platform that evaluates candidate resumes against job descriptions and generates structured candidate insights.
+
+**Highlights:**
+
+- 📑 Automated PDF resume parsing.
+- 🎯 Resume-to-job description matching.
+- 🧠 Skill extraction and gap analysis.
+- 📊 Candidate scoring and classification.
+- 💡 AI-powered recommendations for candidate evaluation.
+
+**Tech Stack:** `Python` `FastAPI` `React.js` `LangChain` `Groq API`
+
+🔗 [GitHub Repository](https://github.com/rahuldhumal20/GenAI-Resume-Analyzer)
+
+---
+
+\<div align="center">
+
+### 🎟️ EventBuzz
+
+**Full-Stack Event Ticket Booking Platform**
+
+\</div>
+
+A MERN-based event ticket booking platform developed for real-world event management, supporting online and offline bookings with an administrative dashboard.
+
+**Highlights:**
+
+- 📊 386+ tickets sold in production.
+- 💰 ₹1.67L+ revenue managed.
+- 🔐 JWT authentication and role-based access control.
+- 🎫 Event booking and ticket management.
+- 🛠️ Admin dashboard for event management.
+
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+🔗 [Live Demo](https://eventsbuzz.netlify.app/)
+
+---
+
+\<div align="center">
 
 ### 🔬 Research Paper Navigator
-> *AI-Powered RAG Research Explorer*
 
-Semantic search system for academic papers using vector + graph database architecture. Users can discover and navigate relationships between research documents.
+**AI-Powered Agentic RAG Research Explorer**
+
+\</div>
+
+An intelligent academic research discovery platform combining semantic search and graph-based retrieval to help users explore research papers and their relationships.
 
 **Highlights:**
-- 🧠 RAG pipeline for contextual Q&A
-- 🗂 ChromaDB vector search
-- 🔗 Neo4j graph-based paper relationships
-- ⚡ Fast document ingestion pipeline
 
-**Stack:** `FastAPI` `React` `ChromaDB` `Neo4j`
+- 🧠 Hybrid semantic and graph-based retrieval.
+- 🗂️ ChromaDB vector search.
+- 🔗 Neo4j citation graph.
+- ⚡ Multi-agent RAG architecture.
+- 📚 Context-aware research discovery.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tech Stack:** `Python` `FastAPI` `Next.js` `Gemini Embeddings` `ChromaDB` `Neo4j`
+
+---
+
+\<div align="center">
 
 ### 🚗 Vehica
-> *Smart Vehicle Recommendation & Discovery Platform*
 
-MERN-based vehicle exploration platform with smart filtering, reviews, and a clean admin management interface.
+**Smart Vehicle Recommendation System**
 
-**Highlights:**
-- 🔍 Multi-parameter smart search & filters
-- ⭐ Review and rating system
-- 🛠 Full admin vehicle management panel
-- 📱 Responsive & performance-optimised UI
+\</div>
 
-**Stack:** `React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="50%">
-
-### 🍽 Smart Dine
-> *AI QR Menu & Restaurant Management System*
-
-QR-code driven digital menu system with an embedded AI menu assistant — helping customers discover dishes and restaurants manage orders.
+A MERN-based vehicle recommendation and discovery platform designed to simplify vehicle exploration through category navigation, search, and filtering.
 
 **Highlights:**
-- 📱 Scan-to-menu QR system
-- 🤖 AI-powered menu assistant chatbot
-- 🗂 Category-based food browsing
-- 🏪 Full restaurant admin panel
 
-**Stack:** `MERN Stack` `AI Integration`
+- 🔍 Full-text search and price filtering.
+- 📊 Management of 100+ vehicle records.
+- ⚡ 15+ RESTful APIs.
+- 🔐 Secure administrative dashboard.
+- 📱 Responsive user interface.
 
-</td>
-</tr>
-</table>
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JavaScript`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahuldhumal20&theme=tokyonight-duo&hide_border=true&background=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahuldhumal20&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=0d2137&hide_border=true)](https://github.com/rahuldhumal20)
-
-</div>
+🔗 [GitHub Profile](https://github.com/rahuldhumal20)
 
 ---
 
-## 🛠 Languages and Tools
+## 📊 GitHub Statistics
 
-<p align="left">
-  <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,nodejs,express,git,c,cpp,java,python,fastapi,mongodb" />
-  </a>
-</p>
+\<div align="center">
+
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=rahuldhumal20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=rahuldhumal20\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00D9FF\&icon_color=00D9FF\&text_color=FFFFFF)"/>
+
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhumal20\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00D9FF\&text_color=FFFFFF)"/>
+
+\</div>
+
+\<div align="center">
+
+
+
+\</div>
+
+\<div align="center">
+
+
+
+\</div>
 
 ---
+
 ## 🐍 Contribution Snake
 
+\<div align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</div>
+\<img src="[https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/rahuldhumal20/rahuldhumal20/output/github-contribution-grid-snake.svg)" alt="GitHub contribution snake animation"/>
+
+\</div>
 
 ---
-### ✍️ Writing 
-- 🧾 Articles
-    - What is Claude AI? A Complete Guide to the Fast-Rising ChatGPT Competitor (2026) <br/>
-        -> https://medium.com/p/e028688f8ac6?postPublishedType=initial
-    - Generative AI: Boom or Curse? <br/>
-        -> https://medium.com/@rahuldhumal2003/generative-ai-boom-or-curse-73b5339cd9c0
-    - Choosing the Right Python Data Structure: A Beginner’s Decision Guide <br/>
-        -> https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109
-    - Building an NLP Pipeline: From Raw Text to Vector Representation <br/>
-        -> https://medium.com/p/566a94867638?postPublishedType=initial
-    - How Machines Read Words: A Guide to NLP Token Classification <br/>
-        -> https://medium.com/@rahuldhumal2003/how-machines-read-words-a-guide-to-nlp-token-classification-89af85f3d5c0
-    - LangChain: The Backbone of Modern LLM-Powered Applications <br/>
-        -> https://medium.com/p/d7f56bab52fc?postPublishedType=initial
-      
- ---     
 
-<div align="center">
+## ✍️ Technical Writing
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,20:0A4FA8,50:0D3B6E,75:0A2342,100:0D0D1A&height=140&section=footer&text=Let's%20build%20something%20great%20together%20🚀&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&descColor=A0D8EF"/>
+I enjoy exploring emerging technologies and sharing my understanding through technical articles.
 
-</div>
+- 🧠 [What is Claude AI? A Complete Guide to the Fast-Rising ChatGPT Competitor (2026)](https://medium.com/p/e028688f8ac6?postPublishedType=initial)
+- 🤖 [Generative AI: Boom or Curse?](https://medium.com/@rahuldhumal2003/generative-ai-boom-or-curse-73b5339cd9c0)
+- 🐍 [Choosing the Right Python Data Structure: A Beginner's Decision Guide](https://medium.com/@rahuldhumal2003/choosing-the-right-python-data-structure-a-beginners-decision-guide-3f34b960f109)
+- 🔤 [Building an NLP Pipeline: From Raw Text to Vector Representation](https://medium.com/p/566a94867638?postPublishedType=initial)
+- 🧠 [How Machines Read Words: A Guide to NLP Token Classification](https://medium.com/@rahuldhumal2003/how-machines-read-words-a-guide-to-nlp-token-classification-89af85f3d5c0)
+- 🔗 [LangChain: The Backbone of Modern LLM-Powered Applications](https://medium.com/p/d7f56bab52fc?postPublishedType=initial)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities where I can build scalable software, solve real-world business problems, and contribute to AI-powered product development.
+
+\<div align="center">
+
+\<a href="[https://rahuldhumal.netlify.app/](https://rahuldhumal.netlify.app/)"> \<img src="[https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge\&logo=google-chrome\&logoColor=black)"/> \</a> \<a href="[https://www.linkedin.com/in/rahul-dhumal-803421365](https://www.linkedin.com/in/rahul-dhumal-803421365)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto\:rahuldhumal2003\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a> \<a href="[https://github.com/rahuldhumal20](https://github.com/rahuldhumal20)"> \<img src="[https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
+
+\<br/>\<br/>
+
+**"Building technology that solves real-world problems."** 🚀
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,20:0A4FA8,50:0D3B6E,75:0A2342,100:0D0D1A&height=140&section=footer&text=Let](https://capsule-render.vercel.app/api?type=waving\&color=0:00D9FF,20:0A4FA8,50:0D3B6E,75:0A2342,100:0D0D1A\&height=140\&section=footer\&text=Let)'s%20build%20something%20great%20together&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65"/>
+
+\</div>
