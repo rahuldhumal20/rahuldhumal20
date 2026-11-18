@@ -43,11 +43,11 @@ const rahul = {
   name        : "Rahul Pravin Dhumal",
   degree      : "M.Sc. Computer Applications",
   location    : "Pune, India 🇮🇳",
-  role        : ["Full Stack Developer", "AI Backend Engineer"],
-  focus       : ["Backend Architecture", "AI/RAG Systems", "Scalable Web Apps"],
+  role        : ["Full Stack Developer", "AI Engineer"],
+  focus       : ["Backend Architecture", "RAG Systems", "Agentic AI"]
   passions    : ["Clean Code", "System Design", "Real-World Impact"],
   currentGoal : ""Building scalable AI-powered backend systems for real-world applications"",
-  openTo      : "Full-time SWE / Backend Engineering roles 🚀"
+  openTo      : "Full-time Software Engineer / Forward Deployed Engineer roles 🚀"
 };
 ```
 
@@ -59,8 +59,8 @@ const rahul = {
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -89,10 +89,74 @@ const rahul = {
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
+
+### 🤖 BizPilot
+> *AI-Powered Multi-Agent Business Analysis Platform*
+
+An intelligent multi-agent AI platform that transforms business problems into actionable software solutions, technical architectures, cost estimates, and implementation plans.
+
+**Highlights:**
+- 🧠 Business Analyst Agent for requirement analysis
+- 🏗️ Solution Architect Agent for technical design
+- 💰 Cost Analyst and Financial Validator agents
+- 📋 AI-powered project planning
+- 🔄 Multi-agent workflow orchestration
+
+**Stack:** `Python` `FastAPI` `LangGraph` `LLMs` `Multi-Agent AI`
+
+[GitHub Repository](https://github.com/rahuldhumal20/bizpilot)
+[Live Demo](https://bizpilotn.netlify.app/)
+
+</td>
+<td width="50%">
+
+### 💬 RAG Customer Support Assistant
+> *AI-Powered Context-Aware Customer Support System*
+
+An intelligent customer support assistant using Retrieval-Augmented Generation to retrieve relevant information from uploaded documents and generate accurate, context-aware responses.
+
+**Highlights:**
+- 📄 PDF document ingestion and processing
+- ✂️ Text chunking and embedding generation
+- 🔍 Semantic search using ChromaDB
+- 🧠 Context-aware LLM response generation
+- ⚡ LangChain and LangGraph workflows
+
+**Stack:** `Python` `FastAPI` `React` `LangChain` `LangGraph` `ChromaDB` `Groq`
+
+[GitHub Repository](https://github.com/rahuldhumal20/Customer-Suppport-Assistant)
+
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📄 GenAI Resume Analyzer
+> *LLM-Powered ATS Resume Screening System*
+
+An AI-powered resume screening platform that evaluates candidate resumes against job descriptions and generates structured candidate insights and recommendations.
+
+**Highlights:**
+- 📑 Automated PDF resume parsing
+- 🎯 Resume-to-job description matching
+- 🧠 Automated skill extraction and gap analysis
+- 📊 Candidate scoring and classification
+- 💡 AI-powered candidate evaluation insights
+
+**Stack:** `Python` `FastAPI` `React` `LangChain` `Groq API`
+
+[GitHub Repository](https://github.com/rahuldhumal20/GenAI-Resume-Analyzer)
+[Live Demo](https://genai-resume-analyzer.netlify.app/)
+
+</td>
 <td width="50%">
 
 ### 🎟 EventBuzz
@@ -108,13 +172,19 @@ A complete MERN-based ticketing system built for real events — with a powerful
 
 **Stack:** `React` `Node.js` `Express` `MongoDB`
 
+[GitHub Repository](https://github.com/rahuldhumal20/event-buzz)
+[Live Demo](https://eventsbuzz.netlify.app/)
+
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔬 Research Paper Navigator
 > *AI-Powered RAG Research Explorer*
 
-Semantic search system for academic papers using vector + graph database architecture. Users can discover and navigate relationships between research documents.
+Semantic search system for academic papers using vector and graph database architecture. Users can discover and navigate relationships between research documents.
 
 **Highlights:**
 - 🧠 RAG pipeline for contextual Q&A
@@ -122,47 +192,35 @@ Semantic search system for academic papers using vector + graph database archite
 - 🔗 Neo4j graph-based paper relationships
 - ⚡ Fast document ingestion pipeline
 
-**Stack:** `FastAPI` `React` `ChromaDB` `Neo4j`
+**Stack:** `FastAPI` `Next.js` `ChromaDB` `Neo4j` `Gemini Embeddings`
+
+[GitHub Repository](https://github.com/rahuldhumal20/research-navigator-ai)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🚗 Vehica
 > *Smart Vehicle Recommendation & Discovery Platform*
 
-MERN-based vehicle exploration platform with smart filtering, reviews, and a clean admin management interface.
+MERN-based vehicle exploration platform with smart filtering, search functionality, and an administrative management interface.
 
 **Highlights:**
-- 🔍 Multi-parameter smart search & filters
-- ⭐ Review and rating system
-- 🛠 Full admin vehicle management panel
-- 📱 Responsive & performance-optimised UI
+- 🔍 Multi-parameter smart search and filters
+- 📊 100+ vehicle records managed
+- ⚡ 15+ RESTful APIs
+- 🛠 Admin vehicle management dashboard
 
 **Stack:** `React` `Node.js` `Express` `MongoDB`
 
-</td>
-<td width="50%">
-
-### 🍽 Smart Dine
-> *AI QR Menu & Restaurant Management System*
-
-QR-code driven digital menu system with an embedded AI menu assistant — helping customers discover dishes and restaurants manage orders.
-
-**Highlights:**
-- 📱 Scan-to-menu QR system
-- 🤖 AI-powered menu assistant chatbot
-- 🗂 Category-based food browsing
-- 🏪 Full restaurant admin panel
-
-**Stack:** `MERN Stack` `AI Integration`
+[GitHub Repository](https://github.com/rahuldhumal20/vehica-mern)
+[Live Demo](https://vehica-recommendation.netlify.app/)
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -184,8 +242,20 @@ QR-code driven digital menu system with an embedded AI menu assistant — helpin
 
 <p align="left">
   <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,nodejs,express,git,c,cpp,java,python,fastapi,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind,bootstrap,vscode,nodejs,express,fastapi,spring,python,java,c,cpp,git,github,postman,mongodb,mysql,postgres,docker,linux,aws,netlify,django,tensorflow,pytorch,githubactions&perline=16" />
   </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+
 </p>
 
 ---
