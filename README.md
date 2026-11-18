@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:0A2342,60:0D3B6E,85:0A4FA8,100:00D9FF&height=220&section=header&text=Rahul%20Dhumal&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Backend%20Engineer&descSize=21&descAlignY=72&descColor=A0D8EF&stroke=00D9FF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:0A2342,60:0D3B6E,85:0A4FA8,100:00D9FF&height=220&section=header&text=Rahul%20Dhumal&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Forward%20Deployed%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=72&descColor=A0D8EF&stroke=00D9FF&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+Backend+Systems;Crafting+AI+%2F+RAG+Powered+Applications;MERN+Stack+%7C+FastAPI+%7C+Node.js;Turning+Ideas+into+Real-World+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Backend+Systems;Developing+Agentic+AI+Applications;Designing+RAG+Powered+Solutions;Python+%7C+FastAPI+%7C+LangGraph+%7C+MERN;Turning+Business+Problems+into+AI+Solutions;Engineering+Intelligent+Real-World+Products)](https://git.io/typing-svg)
 
 </div>
 
